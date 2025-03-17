@@ -1,7 +1,7 @@
 hey there! i'm akanksha n.
 ======================================
 
-wannabe cracked dev
+i try to live and code (wannabe dev)
 -------------------
 
 
