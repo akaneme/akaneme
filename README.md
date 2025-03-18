@@ -1,8 +1,9 @@
 hey there! i'm akanksha n.
 ======================================
 
-i try to live and code (wannabe dev)
+i try to live and code simultaneously 
 -------------------
+(wannabe cracked dev) <br>
 
 
 i'm akanksha negi or aka-ne and i like tech, coffee and cats. oh and i also LOVE learning new stuff, whilst doing what i like.
@@ -15,7 +16,7 @@ i'm akanksha negi or aka-ne and i like tech, coffee and cats. oh and i also LOVE
  <br>
 
 
-(a computer science and engineering major fresher in college, hoping to learn more and do the actual meaningful stuff)
+(a fresher in college, hoping to learn more and do the actual meaningful stuff)
 
 
  
