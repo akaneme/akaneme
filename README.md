@@ -29,7 +29,7 @@ i'm akanksha negi or aka-ne and i like tech, coffee and cats. oh and i also LOVE
 
 ──────────────────────────────────────── ⋆⋅☆⋅⋆ ────────────────────────────────────────  
 <br>
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaneme&layout=compact&theme=tokyonight&hide_border=true)
+![top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akaneme&layout=compact&theme=radical)
 <br>
 ʕ•ᴥ•ʔ oh, and i use _she/her_ <br>
 have a great day coding or wandering! <br>
